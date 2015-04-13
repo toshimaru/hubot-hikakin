@@ -1,0 +1,26 @@
+{
+  "name": "hubot-hikakin",
+  "version": "0.0.1",
+  "description": "I'm Hikakin",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toshimaru/hubot-hikakin.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "hikakin"
+  ],
+  "author": "toshimaru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toshimaru/hubot-hikakin/issues"
+  },
+  "homepage": "https://github.com/toshimaru/hubot-hikakin",
+  "dependencies": {
+  }
+}
